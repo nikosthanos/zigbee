@@ -4,7 +4,7 @@ model: SNZB-03
 vendor: Sonoff
 title: Motion Sensor
 category: sensor
-supports: occupancy
+supports: occupancy, battery
 zigbeemodel: ['MS01','MSO1']
 compatible: [z2m,iob,zha,zigate,deconz,tasmota]
 deconz: 2991
