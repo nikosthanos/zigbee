@@ -4,7 +4,7 @@ model: SNZB-02
 vendor: Sonoff
 title: Temperature And Humidity Sensor
 category: sensor
-supports: temperature, humidity
+supports: temperature, humidity, battery
 zigbeemodel: ['TH01','66666']
 compatible: [z2m,iob,zha,zigate,deconz,tasmota]
 deconz: 3037
